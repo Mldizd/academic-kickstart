@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Milad
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
-organizations:
+organizations: University of California, Riverside
 - name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include power distribution systems applications.
 
 interests:
 - Artificial Intelligence
